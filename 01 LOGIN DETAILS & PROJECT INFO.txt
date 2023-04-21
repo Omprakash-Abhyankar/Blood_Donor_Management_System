@@ -1,0 +1,17 @@
+**Database Name: secyear**
+
+**Developed by Omprakash Abhyankar**
+
+**Recommended PHP Version 5.6.3**
+
+
+**Admin Login Details**
+
+Username: Om0302
+Password: Abhyankar@123
+
+
+**Donor Login Details**
+
+Username: harry
+Password: pass
